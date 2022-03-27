@@ -1,0 +1,5 @@
+Version 1.0 Changelog:
+
+>Added Short Video Comments Copy
+>Added NEW Download Button and Download Setting
+>Base Update 17.04.36
